@@ -23,8 +23,22 @@ Triggers Image based Element Searching mechanism in case the actual HTML Locator
 
 ## Installation
 
+Install wdio-cv-image-recognition
+ 
 ```
 npm i wdio-cv-image-recognition --save-dev
+```
+
+Install OpenCV (Module has not been included in package.json as it gives errors at times)
+
+```
+npm i opencv4nodejs --save-dev
+```
+
+Install all other modules available within package.json
+
+```
+npm i
 ```
 
 ## Usage

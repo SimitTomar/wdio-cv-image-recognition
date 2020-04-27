@@ -1,6 +1,6 @@
 {
   "name": "wdio-cv-image-recognition",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Wdio Module for Image based element recognition",
   "main": "lib/index.js",
   "scripts": {
@@ -33,7 +33,6 @@
     "merge-img": "^2.1.3",
     "moment": "^2.24.0",
     "multiple-cucumber-html-reporter": "^1.11.6",
-    "opencv4nodejs": "^5.1.0",
     "wdio-allure-reporter": "^0.8.3",
     "wdio-cucumber-framework": "^2.2.8",
     "wdio-json-reporter": "^0.4.0",
