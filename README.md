@@ -1,0 +1,1 @@
+# wdio-cv-image-recognition
