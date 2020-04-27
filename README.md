@@ -29,7 +29,7 @@ Install wdio-cv-image-recognition
 npm i wdio-cv-image-recognition --save-dev
 ```
 
-Install OpenCV (Module has not been included in package.json as it gives errors at times)
+Install OpenCV (Module has not been included in package.json as it gives errors sporadically)
 
 ```
 npm i opencv4nodejs --save-dev

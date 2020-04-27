@@ -1,6 +1,6 @@
 {
   "name": "wdio-cv-image-recognition",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Wdio Module for Image based element recognition",
   "main": "lib/index.js",
   "scripts": {
