@@ -41,6 +41,14 @@ Install all other modules available within package.json
 npm i
 ```
 
+## Working Example:
+
+For a working example, please refer to 
+
+```
+https://github.com/SimitTomar/wdio-image-text-recognition
+```
+
 ## Usage
 
 wdio.conf.js
