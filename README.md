@@ -7,7 +7,7 @@ A	Computer Vision based Element Recognition & Self-Healing Mechanism Node Module
 *	Creation of Locators is a Time-Consuming Process;
 *	Requirement of High Maintenance as the Locator properties are prone to changes;
 *	Results in Flaky Test Automation Tests as the properties get changed every now and then;
-*	At times, its unique to find unique Locators;
+*	At times, it's difficult to find unique Locators;
 *	Can’t automate various Components like Canvas, SVG etc.
 
 The above problems can be resolved by providing a mechanism through which Developers can identify the Web Elements through a more natural and reliable way i.e. Images. And that is exactly what this module does. In order to achieve this behaviour it has 2 core features:
